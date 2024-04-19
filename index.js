@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["W GRZE LARGEHUB"];
+const statusMessages = ["**W GRZE LargeHub.pl**"];
 
 
 let currentIndex = 0;
